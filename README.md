@@ -1,6 +1,7 @@
 🚀 NexoFlow – Sistema de Login e Cadastro
+
 <p align="center"> Interface moderna de autenticação desenvolvida com foco em responsividade, organização visual e boas práticas de Front-End. </p>
-📸 Preview
+
 <p align="center"> <img src="assets/screenshot.png" width="800px"> </p>
 
 📌 Suba a imagem do projeto para uma pasta assets e mantenha o nome screenshot.png.
