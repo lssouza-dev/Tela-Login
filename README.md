@@ -84,20 +84,15 @@ NexoFlow/
 └── README.md
 
 
----
-
-## 📱 Responsividade
-
-O layout foi desenvolvido utilizando **Flexbox** e **Media Queries**, permitindo adaptação para diferentes tamanhos de tela.
 
 ---
 
-## 🚧 Melhorias Futuras
+## 🚧 Possíveis Melhorias Futuras
 
 - 🔐 Integração com back-end
-- ✅ Validação de formulário com JavaScript
-- 🔄 Autenticação real de usuários
+- 🔄 Implementação de validação de formulário
 - 📩 Sistema de recuperação de senha
+- 🗂 Autenticação real de usuários
 
 ---
 
@@ -106,6 +101,12 @@ O layout foi desenvolvido utilizando **Flexbox** e **Media Queries**, permitindo
 **Larissa Souza Santos**  
 Estudante de Análise e Desenvolvimento de Sistemas  
 Foco em desenvolvimento Full Stack 🚀  
+
+---
+
+## 📌 Objetivo
+
+Projeto desenvolvido com finalidade educacional para prática de Front-end e construção de portfólio.
 
 ---
 
