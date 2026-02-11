@@ -1,86 +1,114 @@
-🚀 NexoFlow – Sistema de Login e Cadastro
+<h1 align="center">🚀 NexoFlow</h1>
 
-<p align="center"> Interface moderna de autenticação desenvolvida com foco em responsividade, organização visual e boas práticas de Front-End. </p>
+<p align="center">
+Interface moderna de Login e Cadastro desenvolvida para prática de Front-end  
+com foco em design profissional e futura integração com Back-end.
+</p>
 
-<p align="center"> <img src="assets/screenshot.png" width="800px"> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Structure-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-Style-blue?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge">
+</p>
 
-📌 Suba a imagem do projeto para uma pasta assets e mantenha o nome screenshot.png.
+---
 
-✨ Sobre o Projeto
+## 📸 Preview do Projeto
 
-O NexoFlow simula o fluxo inicial de autenticação de um sistema SaaS moderno.
+<div align="center">
 
-O projeto contém:
+### 🔐 Tela de Login
+<img src="./assets/login.png" width="800px">
 
-🔐 Tela de Login
+<br><br>
 
-📝 Tela de Cadastro
+### 📝 Tela de Cadastro
+<img src="./assets/cadastro.png" width="800px">
 
-🔄 Navegação entre as páginas
+</div>
 
-📱 Layout totalmente responsivo
+---
 
-Foi desenvolvido com foco em estrutura limpa, hierarquia visual e organização de código.
+## 🎯 Sobre o Projeto
 
-🧭 Fluxo de Navegação
+O **NexoFlow** é uma interface de autenticação criada com o objetivo de praticar:
 
-O usuário acessa a tela de Login
+- Estruturação de layout moderno
+- Organização visual profissional
+- Hierarquia de informação
+- Experiência do usuário (UX)
+- Preparação para integração futura com back-end
 
-Caso não possua conta, pode clicar em “Cadastre-se”
+O projeto simula o fluxo real de autenticação de um sistema web.
 
-O sistema direciona para a tela de Cadastro
+---
 
-O layout foi estruturado pensando em futura integração com autenticação back-end
+## 🔄 Fluxo de Navegação
 
-🛠️ Tecnologias Utilizadas
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Flexbox-Modern%20Layout-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge"> </p>
-🎨 Conceitos Aplicados
+- 🔹 Ao clicar em **"Não tem uma conta? Cadastre-se"**, o usuário é redirecionado para a tela de cadastro.
+- 🔹 Ao clicar em **"Já tenho uma conta"**, retorna para a tela de login.
 
-Estrutura semântica com HTML5
+---
 
-Layout com Flexbox
+## 🛠 Tecnologias Utilizadas
 
-Media Queries para responsividade
+<div align="center">
 
-Hierarquia tipográfica
+HTML5 • CSS3 • Flexbox • Google Fonts • Media Queries
 
-Gradiente + overlay para profundidade
+</div>
 
-Inputs com efeito translúcido
+---
 
-Animação suave em botão
+## 🎨 Conceitos Aplicados
 
-📱 Responsividade
+✔ Identidade visual consistente  
+✔ Design com gradiente moderno  
+✔ Componentização visual de inputs  
+✔ Estrutura organizada de pastas  
+✔ Layout responsivo  
 
-O projeto foi ajustado para funcionar corretamente em:
+---
 
-💻 Desktop
+## 📂 Estrutura do Projeto
 
-💻 Notebook
+NexoFlow/
+│
+├── login.html
+├── cadastro.html
+├── css/
+│ └── style.css
+├── assets/
+│ ├── login.png
+│ └── cadastro.png
+└── README.md
 
-📱 Mobile
 
-Breakpoints foram aplicados para manter proporção e legibilidade.
+---
 
-📂 Estrutura do Projeto
-📁 nexoFlow-auth
- ├── login.html
- ├── cadastro.html
- ├── style.css
- └── assets/
+## 📱 Responsividade
 
-🚀 Próximos Passos
+O layout foi desenvolvido utilizando **Flexbox** e **Media Queries**, permitindo adaptação para diferentes tamanhos de tela.
 
-🔎 Validação de formulário com JavaScript
+---
 
-🔐 Integração com autenticação back-end
+## 🚧 Melhorias Futuras
 
-🔄 Alternância dinâmica entre Login ↔ Cadastro
+- 🔐 Integração com back-end
+- ✅ Validação de formulário com JavaScript
+- 🔄 Autenticação real de usuários
+- 📩 Sistema de recuperação de senha
 
-🌐 Deploy no GitHub Pages
+---
 
-👩‍💻 Desenvolvido por
+## 👩‍💻 Autora
 
-Larissa Souza Santos
-Estudante de Análise e Desenvolvimento de Sistemas
-Foco em Desenvolvimento Full Stack
+**Larissa Souza Santos**  
+Estudante de Análise e Desenvolvimento de Sistemas  
+Foco em desenvolvimento Full Stack 🚀  
+
+---
+
+## 📌 Objetivo do Projeto
+
+Projeto desenvolvido para prática de front-end e construção de portfólio profissional.
