@@ -18,12 +18,12 @@ com foco em design profissional e futura integração com Back-end.
 <div align="center">
 
 ### 🔐 Tela de Login
-<img src="./assets/login.png" width="800px">
+<img src="./imagens/login.png" width="800px">
 
 <br><br>
 
 ### 📝 Tela de Cadastro
-<img src="./assets/cadastro.png" width="800px">
+<img src="./imagens/cadastro.png" width="800px">
 
 </div>
 
