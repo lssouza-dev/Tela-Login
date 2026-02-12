@@ -46,7 +46,6 @@ O projeto simula o fluxo real de autenticação de um sistema web.
 ## 🔄 Fluxo de Navegação
 
 - 🔹 Ao clicar em **"Não tem uma conta? Cadastre-se"**, o usuário é redirecionado para a tela de cadastro.
-- 🔹 Ao clicar em **"Já tenho uma conta"**, retorna para a tela de login.
 
 ---
 
