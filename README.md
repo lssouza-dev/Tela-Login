@@ -103,12 +103,6 @@ Foco em desenvolvimento Full Stack 🚀
 
 ---
 
-## 📌 Objetivo
-
-Projeto desenvolvido com finalidade educacional para prática de Front-end e construção de portfólio.
-
----
-
 ## 📌 Objetivo do Projeto
 
 Projeto desenvolvido para prática de front-end e construção de portfólio profissional.
